@@ -1,5 +1,2 @@
 requests
-sphinx
-sphinx-rtd-theme
-sphinx_tabs
-sphinx_design
+
