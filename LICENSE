@@ -1,0 +1,63 @@
+Pasban Open Source License 2025
+
+Copyright (c) 2025 Amir Hossein Abdi (keyaruga)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and its documentation files (the "Software"), to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software, and
+to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. Attribution
+   Whenever this software or any part of it is used in another project or product,
+   it must be acknowledged that this work is taken from the Pasban repository and
+   is covered by this license.
+
+2. Commercial Use
+   Use, sale, distribution, and exploitation of the Software for any commercial purpose
+   is fully allowed without any restriction.
+
+3. Warranty
+   The Software is provided "as is", without any warranty for operation in real-world
+   or production environments. The author is not responsible for any damage or defect.
+
+4. License Copy
+   A complete copy of this license must accompany the Software or any version that is distributed.
+
+5. Modification
+   You may modify the Software and create derived versions, provided that this license
+   and attribution to the original source are preserved.
+
+Note: This license applies only to the code contained in this repository. It does not cover
+any data, files, or resources downloaded or obtained from other repositories or sources.
+
+------------------------------------------------------------
+
+مجوز متن‌باز پاسبان ۱۴۰۴
+
+حق نشر (c) ۱۴۰۴ امیرحسین عبدی (keyaruga)
+
+بدین‌وسیله به هر کسی که نسخه‌ای از این نرم‌افزار و فایل‌های راهنمای آن ("نرم‌افزار") را دریافت می‌کند،
+اجازه داده می‌شود که نرم‌افزار را به هر گونه استفاده، رونوشت، دگرگونی، ترکیب، انتشار، توزیع، مجوزدهی
+یا فروش برساند و همچنین به دیگران اجازه دهد همین کارها را انجام دهند، به شرط رعایت بندهای زیر:
+
+1. ارجاع
+   هرگاه این نرم‌افزار یا بخشی از آن در هر پروژه یا محصول دیگری بهره‌برداری شود،
+   باید ذکر شود که این اثر از ریپوی پاسبان گرفته شده و شامل همین مجوز است.
+
+2. بهره‌برداری تجاری
+   استفاده، فروش، انتشار، توزیع و بهره‌برداری از نرم‌افزار برای هر هدف تجاری
+   آزاد و بدون هیچ محدودیتی است.
+
+3. تضمین
+   این نرم‌افزار "چنان‌که هست" عرضه می‌شود و هیچ تضمینی برای کارکرد در محیط واقعی
+   یا تولید وجود ندارد. نویسنده مسئول هیچ خسارت یا نقصی نیست.
+
+4. نگهداری مجوز
+   نسخه کامل این مجوز باید همراه نرم‌افزار یا هر نسخه‌ای که توزیع می‌شود، نگهداری شود.
+
+5. دگرگونی
+   می‌توانید نرم‌افزار را تغییر دهید و نسخه‌های دگرگون شده بسازید، مشروط بر آنکه
+   این مجوز و ارجاع به منبع اصلی حفظ شود.
+
+یادداشت: این مجوز تنها شامل کدهای درون این ریپو است و شامل هیچ داده،
+فایل یا منابعی که از ریپوهای دیگر بارگیری شده‌اند نمی‌شود.

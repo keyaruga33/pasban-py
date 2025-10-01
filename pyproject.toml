@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pasban"
+version = "1.0.0"
+description = "Pure Persian text processing and foreign word detection library"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Amir Hossein Abdi", email = "you@example.com" }
+]
+license = { text = "MIT" }
+keywords = ["persian", "text-processing", "nlp", "word-detector", "pure-persian", ]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    "requests>=2.32.5"
+]
+
+[project.urls]
+"Homepage" = "https://pasbans.ir"
+"Repository" = "https://github.com/keyaruga33/pasban-detector"
