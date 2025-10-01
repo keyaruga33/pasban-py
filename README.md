@@ -8,7 +8,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-🌐 [تارنما](https://pasbans.ir) • 📚 [راهنما](https://pasban.readthedocs.io) •
+🌐 [تارنما](https://pasbans.ir) • 📚 [راهنما](https://pasban-py.readthedocs.io) •
 📦 [PyPI](https://pypi.org/project/pasban/) • 💬 [تلگرام](https://t.me/pasbanparsi) •
 🐙 [GitHub](https://github.com/keyaruga33/pasban-py)
 
@@ -119,7 +119,7 @@ detector.reload()
 
 ### Documentation
 
-📚 **Full documentation**: [Read the Docs](https://pasban.readthedocs.io)
+📚 **Full documentation**: [Read the Docs](https://pasban-py.readthedocs.io)
 
 ### Requirements
 
@@ -230,7 +230,7 @@ detector.reload()
 
 ### داکیومنت
 
-📚 **راهنمای بکارگیری**: [Read the Docs](https://pasban.readthedocs.io)
+📚 **راهنمای بکارگیری**: [Read the Docs](https://pasban-py.readthedocs.io)
 
 ### پیش‌نیازها
 
@@ -246,6 +246,6 @@ detector.reload()
 
 **Made with ❤️ for Persian Language | با ❤️ برای زبان پارسی**
 
-[Documentation](https://pasban.readthedocs.io) • [PyPI](https://pypi.org/project/pasban/) • [Issues](https://github.com/keyaruga33/pasban-py/issues)
+[Documentation](https://pasban-py.readthedocs.io) • [PyPI](https://pypi.org/project/pasban/) • [Issues](https://github.com/keyaruga33/pasban-py/issues)
 
 </div>
