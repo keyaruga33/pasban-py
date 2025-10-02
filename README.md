@@ -217,10 +217,10 @@ detector_regex = WordDetectorRegex()
 # بی کنش کردن نرمال‌سازی برای نوشتار خام
 result = detector.detect(text, normalize=False)
 
-# بی کنس کردن پالایش زمینه‌ای برای پردازش سریع‌تر
+# بی کنس کردن پالایش زمینه‌ای برای پردازش پرشتاب‌تر
 result = detector.detect(text, contextual=False)
 
-# دریافت فقط دسکشنری واژگان
+# دریافت فقط دیکشنری واژگان
 words = detector.detect_words(text)
 # دستاورد: {'کامپیوتر': 'رایانه', 'اینترنت': 'اینترنت'}
 
